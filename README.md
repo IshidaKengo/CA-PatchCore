@@ -17,3 +17,5 @@ Run with:
 ~~~
 python main.py 
 ~~~
+
+Click here[link] for implementation in MVTec LOCO AD.
