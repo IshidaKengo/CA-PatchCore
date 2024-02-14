@@ -1,6 +1,6 @@
 # CA-PatchCore
 
-**This repository is implementation of CA-PatchCore on Co-occurrence Anomaly Detection Dataset (CAD-SD).**
+**This repository is implementation of Cross-attention PatchCore (CA-PatchCore) on Co-occurrence Anomaly Detection Dataset (CAD-SD).**
 
 ## Installation
 Donwload "Co-occurrence Anomaly Detection Screw Dataset (CAD-SD)" to **./dataset** from this [[Link](https://drive.google.com/drive/folders/1yeampzTiB4uoTmmqIZkeCdMIXGujl3cU?usp=sharing)].  
