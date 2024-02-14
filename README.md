@@ -4,10 +4,7 @@
 
 ### Usage 
 Donwload "Co-occurrence Anomaly Detection Screw Dataset (CAD-SD)" to ./dataset from this [[Link](https://drive.google.com/drive/folders/1yeampzTiB4uoTmmqIZkeCdMIXGujl3cU?usp=sharing)].  
-The implementation environment of our experiment is as follows:
-python xx, torch==xx, torchvision==xx  
-CPU:xx, Memory:xx, GPU:xx
-cuda:xx
+Python==3.10.12
 
 Install packages with:
 ~~~
@@ -18,4 +15,4 @@ Run with:
 python main.py 
 ~~~
 
-Click here[link] for implementation in MVTec LOCO AD.
+Click here[[link](https://github.com/IshidaKengo/CA-PatchCore-_on_MVTec-LOCO-AD)] for implementation in MVTec LOCO AD.
