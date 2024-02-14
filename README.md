@@ -30,4 +30,4 @@ Run with:
 python main.py 
 ~~~
 
-**Click [here(https://github.com/IshidaKengo/CA-PatchCore-_on_MVTec-LOCO-AD)] for implementation in MVTec LOCO AD.**
+**Click [here](https://github.com/IshidaKengo/CA-PatchCore-_on_MVTec-LOCO-AD) for implementation in MVTec LOCO AD.**
