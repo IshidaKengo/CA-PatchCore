@@ -11,7 +11,7 @@ def get_args():
     parser = argparse.ArgumentParser(description='ANOMALYDETECTION')
     parser.add_argument('--phase', choices=['train','test'], default='train')
     parser.add_argument('--dataset_name', default='cad-sd') 
-    parser.add_argument('--dataset_path', default=r'/media/Data/ishida/datasets/Co-occurrence Anomaly Detection Screw Dataset') 
+    parser.add_argument('--dataset_path', default=r'./dataset/Co-occurrence Anomaly Detection Screw Dataset') 
 
     parser.add_argument('--output_path', default=r'./outputs') #Directory to save the model outputs
     parser.add_argument('--evaluation_path', default=r'./evaluation') #Directory to save evaluation results
