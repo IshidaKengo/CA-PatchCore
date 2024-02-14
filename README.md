@@ -5,7 +5,7 @@
 ## Installation
 Donwload "Co-occurrence Anomaly Detection Screw Dataset (CAD-SD)" to **./dataset** from this [[Link](https://drive.google.com/drive/folders/1yeampzTiB4uoTmmqIZkeCdMIXGujl3cU?usp=sharing)].  
 
-### environment
+### Environment
 ~~~
 python==3.10.12
 torch==2.0.1
